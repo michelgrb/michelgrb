@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" width="700px"></h1>
+<h1 align="center"><img src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" width="500px"></h1>
 <h2 align="center">Hi <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-13.gif" width="100px">, I'm Michel</h2>
 <h3 align="center">I'm a high school student from Germany.</h3>
 
