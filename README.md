@@ -8,8 +8,7 @@
 
 <br/>
 
-<div style="text-align:center"> 
-  🔭 I’m currently completing 
+<div style="text-align:center"> 🔭 I’m currently completing 
     <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0">CS50: Introduction to Computer Science</a>
   <br/> <br/>
   👨‍💻 Some of my projects are available at 
