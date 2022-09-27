@@ -26,7 +26,7 @@
 <p align="center"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="express" width="40" height="45"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="express" width="40" height="45"/> 
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" alt="express" width="50" height="55"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" alt="express" width="45" height="45"/> 
     <img src="https://upload.wikimedia.org/wikipedia/en/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" alt="express" width="40" height="45"/> 
     <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="express" width="45" height="45"/>
     <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" width="45" height="45"/>  
