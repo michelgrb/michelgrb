@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://64.media.tumblr.com/bb892783f624607131ba453e7f472bb9/tumblr_ptuu10mAFR1qbw2q1o1_1280.gif" width="1000px"></h1>
 <h2 align="center">Hi <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-13.gif" width="100px">, I'm Michel</h2>
 <h3 align="center">I'm a CS-Student from Germany.</h3>
+<h3 align="center">The journey of a thousand miles begins with one step. - Lao Tzu</h3>
 
 <br/><br/>
 
