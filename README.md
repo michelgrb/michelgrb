@@ -2,7 +2,7 @@
 <h2 align="center">Hi <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-13.gif" width="100px">, I'm Michel</h2>
 <h3 align="center">I'm a CS-Student from Germany.</h3>
 
-<br/><br/><br/>
+<br/><br/>
 
 ## <center>👨‍🚀 About Me
 
