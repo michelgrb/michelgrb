@@ -9,8 +9,7 @@
 
 <br/>
 
-<div style="text-align:center"> 👨‍🎓 I am currently studying computer science at the Technical University of Munich.
-    <a href="https://www.tum.de/">TUM</a>
+<div style="text-align:center"> 👨‍🎓 I am currently studying computer science.
   <br/> <br/>
   👾 Some of my projects are available at:
     <a href="https://github.com/mlgcode?tab=repositories">Portfolio</a>
